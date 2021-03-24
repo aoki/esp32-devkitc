@@ -1,4 +1,6 @@
-# ESP32-WROOM-32 DevKitC
+# ESP32 DevKitC
+
+- [ESP32-DevKitC ESP-WROOM-32](https://akizukidenshi.com/catalog/g/gM-11819/)
 
 ## Setup for Mac
 1. [Install Arduino](https://www.arduino.cc/en/software)
